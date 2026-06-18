@@ -2,7 +2,7 @@
 const profiles = [
     {
         id: 1,
-        name: "Sarah",
+        name: "Test",
         age: 24,
         bio: "Adventure seeker, coffee lover ☕",
         image: "https://via.placeholder.com/400x300?text=Sarah",
